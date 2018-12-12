@@ -22,7 +22,7 @@ namespace AdminLTE
             }
 
             app.UseStaticFiles();
-
+            
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
