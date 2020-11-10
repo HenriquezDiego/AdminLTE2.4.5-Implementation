@@ -1176,3 +1176,10 @@ table.dataTable.compact tbody td {
 .glyphicon-menu-up:before {
     content: "\e260";
 }
+
+.txt-vertical {
+    width: 10px;
+    word-wrap: break-word;
+    text-align: center;
+    line-height: 20px;
+}
